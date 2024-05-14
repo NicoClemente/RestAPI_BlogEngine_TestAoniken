@@ -1,0 +1,6 @@
+@RestAPI_BlogEngine_TestAoniken_HostAddress = http://localhost:7161
+
+GET {{RestAPI_BlogEngine_TestAoniken_HostAddress}}/BlogEngine/
+Accept: application/json
+
+###
